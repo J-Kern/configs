@@ -1,0 +1,31 @@
+# Diese viminfo-Datei wurde von Vim 8.2 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=latin1
+
+
+# hlsearch on (H) or off (h):
+~h
+# Befehlszeile Geschichte (neueste bis älteste):
+:echo $HOME
+|2,0,1637845245,,"echo $HOME"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+
+# Datei-Markierungen:
+
+# Jumplist (neueste zuerst):
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
