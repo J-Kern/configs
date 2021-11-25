@@ -1,13 +1,16 @@
-
-nnoremap n h
-nnoremap r j
-nnoremap s k
-nnoremap g l
-
+:set langmap=nh,rj,sk,gl
 
 set nocompatible
 filetype off
 
-call plug#begin('$XDG_CONFIG_HOME/nvim/plugged')
+call plug#begin('~/source/configs/.config/nvim/plugged')
+
+Plug 'joshdick/onedark.vim'
 
 call plug#end()
+
+syntax on
+colorscheme onedark
+
+
+
